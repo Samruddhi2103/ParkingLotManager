@@ -83,12 +83,12 @@ src/
 ## ⚙️ How to Run the Project
 
 ### Method 1 – Using NetBeans
+1. Clone the Repository
 
-1. Clone the repository
+```bash
+git clone https://github.com/Samruddhi2103/ParkingLotManager.git
+```
 
-```
-git clone <your-repository-url>
-```
 
 2. Open the project in **Apache NetBeans**
 
